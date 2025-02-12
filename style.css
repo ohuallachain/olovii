@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, rgba(77, 68, 54, 0.31), rgb(187, 173, 164))
+}
+
+nav {
+    display:flex;
+    justify-content: center;
+    
+}
