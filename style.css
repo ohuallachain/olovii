@@ -1,9 +1,9 @@
 body {
-    background: linear-gradient(to right, rgba(77, 68, 54, 0.31), rgb(187, 173, 164))
+    background: linear-gradient(to right, rgba(77, 68, 54, 0.713), rgb(187, 173, 164))
 }
 
 nav {
-    display:flex;
+    display: flex;
     justify-content: center;
     
 }
