@@ -2,7 +2,7 @@ body {
     background: 
       url('./images/texture.jpg'), 
       linear-gradient(to right, hsl(37, 18%, 20%), rgb(187, 173, 164));
-    background-blend-mode: soft-light;
+    /* background-blend-mode: soft-light; */
     background-size: cover;
 }
 
