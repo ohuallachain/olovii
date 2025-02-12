@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to right, rgba(77, 68, 54, 0.713), rgb(187, 173, 164));
+    background: linear-gradient(to right, hsl(37, 18%, 20%), hsl(35, 12%, 27%), rgba(138, 110, 86, 0.88), rgb(155, 120, 98), rgb(187, 173, 164));
     background-blend-mode: overlay;
 }
 
