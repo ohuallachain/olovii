@@ -1,7 +1,5 @@
 body {
-    background: 
-      url('./images/texture-min.png'), 
-      linear-gradient(to right, hsl(37, 18%, 20%), rgb(187, 173, 164));
+    background: linear-gradient(to right, hsl(37, 18%, 20%), rgb(187, 173, 164));
     /* background-blend-mode: soft-light; */
     background-size: cover;
 }
