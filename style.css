@@ -14,3 +14,7 @@ nav {
     color: white;
 }
 
+.second_head {
+    display: flex;
+    justify-content: center;
+}
